@@ -1,5 +1,5 @@
 # Portfolio
-personal portfolio 
+
 CODING SMITH PERSONAL PORTFOLIO 
 
 💻 Coding Smith — Creative Web Developer Portfolio
@@ -52,23 +52,13 @@ I build all my projects using:
 (ADDITIONAL TOOLS: GIT, GITHUB PAGES, VISUAL STUDIO CODE)
 
 
-🌐 Live Portfolio
-
-Visit my live portfolio to explore all my projects in action:  
-👉https://codingsmith.github.io/portfolio
-
-
----
-
 📫 Contact Me
 
 Let’s connect or collaborate on your next web project!  
 
 👍 Email: codingsmith1@gmail.com
 
-💪 GitHub: https://github.com/codingsmith
-
-👊 Portfolio Site: https://codingsmith.github.io
+💪 GitHub: https://github.com/codingsmith1
 
 
 📄 License
